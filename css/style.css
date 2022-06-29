@@ -70,3 +70,7 @@ p.subtitle {
 hr.login-hr{
     background-color: rgb(49, 46, 241);
 }
+.downloads{
+    display: flex;
+    
+}
